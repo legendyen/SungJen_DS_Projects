@@ -17,3 +17,12 @@ print(table)
 fur_data = squirrel_data["Primary Fur Color"].value_counts()
 print(fur_data)
 
+# reset index and columns to prepare data for new csv file
+fur_data = fur_data.rename_axis("Fur Color")
+print(fur_data)
+new_fur_data = fur_data.reset_index(name='Counts')
+print(new_fur_data)
+
+# output the information we wanted as another csv file
+new_fur_data.to_csv("squirrel_color_count.csv")
+
