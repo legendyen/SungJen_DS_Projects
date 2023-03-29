@@ -13,9 +13,6 @@ table.add_column("data_type", squirrel_data.dtypes)
 table.add_column("sum_of_NaN_values", squirrel_data.isna().sum())
 print(table)
 
-# or use df.info() to print out overview of all the dtypes used in dataframe, along with its shape and other information
-# squirrel_data.info()
-
 # count for different values in "Primary Fur Color"
 fur_data = squirrel_data["Primary Fur Color"].value_counts()
 print(fur_data)
