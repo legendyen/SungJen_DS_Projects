@@ -4,7 +4,7 @@ To clean the data and analyze the used car listings eBay Kleinanzeigen.
 
 **Data Source**
 
-The dataset was originally scraped and uploaded to Kaggle. The version of the dataset we are working with is a sample of 50,000 data points that was prepared by Dataquest including simulating a less-cleaned version of the data.
+The dataset was originally scraped and uploaded to [Kaggle](https://data.world/data-society/used-cars-data). The version of the dataset we are working with is a sample of 50,000 data points that was prepared by Dataquest including simulating a less-cleaned version of the data.
 
 **Data Dictionary** 
 
