@@ -1,6 +1,6 @@
 **Project Description**
 
-To clean the data and analyze the used car listings eBay Kleinanzeigen.
+To clean and analyze the data from used car listings eBay Kleinanzeigen.
 
 **Data Source**
 
