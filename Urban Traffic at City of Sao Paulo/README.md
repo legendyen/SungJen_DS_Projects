@@ -4,7 +4,7 @@ Determine the factors that cause the traffic slowness in São Paulo to worsen.
 
 **Motivation**
 
-Implement matplotlib to compare and visualize the relationship between different factors and traffic slowness
+Implement matplotlib to compare and visualize the relationship between different factors and traffic slowness.
 
 **Data Source**
 
