@@ -11,6 +11,6 @@ Each row contains a summary of each campaign, including:
 4. Category of the project (i.e., type of art)
 5. Features (whether a staff pick or spotlight)
 
-URL: [https://www.kickstarter.com/]
+Source: Kickstarter(https://www.kickstarter.com/)
 
 # Result
