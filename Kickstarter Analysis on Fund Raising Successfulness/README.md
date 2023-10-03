@@ -14,3 +14,8 @@ Each row contains a summary of each campaign, including:
 Source: [Kickstarter Website](https://www.kickstarter.com/)
 
 ## Result
+![image](https://github.com/legendyen/SungJen_DS_Projects/assets/20420765/1421383c-40b3-4955-8005-12bdb0e9bce2)
+
+![image](https://github.com/legendyen/SungJen_DS_Projects/assets/20420765/c7112830-dd7b-4496-852b-2e80998db137)
+
+![image](https://github.com/legendyen/SungJen_DS_Projects/assets/20420765/d191fd54-07b6-4f86-b62b-5570ef30724c)
