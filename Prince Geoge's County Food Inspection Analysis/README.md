@@ -1,6 +1,6 @@
 ## Project Description
 As a member of Prince George's County, University of Maryland neautures thousands of students everyday, providing them meals for a day at school. Therefore, it is both our responsibility and the Prince George County's to monitor and maintain sanitary foods into our mouth.
-The dataset from Prince George’s County Health Department gives us precious information on how they inspect and monitor complaint investigations. 
+The dataset from Prince George’s County Health Department gives us precious information on how they inspect and monitor complaint investigations. We will be mainly foucs on the records that define as restaurant, since these food providers interact the most with students on a daily basis.
 
 
 ## Data Set Description
@@ -8,6 +8,8 @@ The department provides several services to residents through the Food Protectio
 
 1. routine inspections for food service facilities
 2. temporary or seasonal food operations
+
+
 The dataset accumulates inspection records starting March 6, 2019 till November 3, 2023, with 44,600 rows and 29 columns, where each row is a food inspection.
 
 Source: [Prince George’s County Health Department](https://data.princegeorgescountymd.gov/Health/Food-Inspection/umjn-t2iz)
