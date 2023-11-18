@@ -1,5 +1,5 @@
 ## Project Description
-As a member of Prince George's County, University of Maryland neauture thousands of students everyday, providing them meals for a day at school. Therefore, it is both our responsibility and the Prince George County's to monitor and maintain sanitary foods into our mouth.
+As a member of Prince George's County, University of Maryland neautures thousands of students everyday, providing them meals for a day at school. Therefore, it is both our responsibility and the Prince George County's to monitor and maintain sanitary foods into our mouth.
 The dataset from Prince George’s County Health Department gives us precious information on how they inspect and monitor complaint investigations. 
 
 
