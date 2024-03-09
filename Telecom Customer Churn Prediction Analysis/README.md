@@ -16,6 +16,7 @@ As a marketing consultant team, we aim to receive monthly updates on all interac
 
 See attachments in the folder (telecom_data_new.csv, telecom_data_customer.csv)
 
+
 **Analysis Result**
 ![image](https://github.com/legendyen/SungJen_DS_Projects/assets/20420765/0bf50734-7707-47d3-9870-4f25c2b2d9ec)
 
